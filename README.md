@@ -8,4 +8,5 @@ mvn install
 For running all test cases:
 
 Run redis server (see README.txt)
+
 mvn test
